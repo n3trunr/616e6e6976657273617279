@@ -2,6 +2,8 @@
 
 - Draft UI [DONE]
 - Make UI Skeleton
+  - add ng bootstrap
+  - npm install @ng-bootstrap/ng-bootstrap
 - Setup Firebase
 - Write to DB
 - Read from DB
